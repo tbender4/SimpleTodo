@@ -40,7 +40,7 @@ Minor changes have been made to Android Studio  since the guide videos have been
 
 ## License
 
-    Copyright [2018] [Thomas Bender]
+    Copyright 2018 Thomas Bender
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
